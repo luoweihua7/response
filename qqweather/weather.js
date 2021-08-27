@@ -1,4 +1,4 @@
-# https://wis.qq.com/weather/common?source=pc&weather_type=observe|forecast_1h|forecast_24h|alarm|rise|air|index|tips&province=%E5%B9%BF%E4%B8%9C%E7%9C%81&city=%E6%B7%B1%E5%9C%B3%E5%B8%82
+// https://wis.qq.com/weather/common?source=pc&weather_type=observe|forecast_1h|forecast_24h|alarm|rise|air|index|tips&province=%E5%B9%BF%E4%B8%9C%E7%9C%81&city=%E6%B7%B1%E5%9C%B3%E5%B8%82
 {
     "data": {
         "air": {
